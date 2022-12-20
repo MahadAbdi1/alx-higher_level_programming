@@ -10,4 +10,4 @@ class Square():
         Args:
           size (int): the size of the suare once instance is created
         """
-        self.__size = 
+        self.__size = size
